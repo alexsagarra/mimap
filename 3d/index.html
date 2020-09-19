@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="reset.css">
+        <script type="module">
+            import {ready} from "./utils.js";
+            import {visualize_store} from "./visualization.js";
+
+
+            ready(function(){
+                var canvas = document.getElementById('canvas');
+                visualize_store(canvas);
+                console.log(canvas);
+            });
+        </script>
+    </head>
+    <body>
+        Hello World
+        <canvas id="canvas">Your browser does not support HTML5 canvas</canvas>
+    </body>
+</html>
