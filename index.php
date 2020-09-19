@@ -282,89 +282,12 @@ echo '</div>';
         </div> <!-- container -->
     </section>
 
-    <!--====== PROJECT GALLERY PART ENDS ======-->
- 
- 
-  <section id="store" class="about-area pt-115">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <h6 class="welcome">Store Overview</h6>
-                        <h3 class="title"><span>Find all articles </span> on your shopping tour.</h3>
-                    </div>
-                </div>
-            </div> <!-- row -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                        <img src="assets/images/3d/3d1.png">
-						<!--<img src="bild.php" alt="store">-->
-						<!-- Use it like any other HTML element -->
-<div class="col-lg-8" style="width: 200px; margin-right=-100px;">
-<!--
-<canvas id="canvas"  style="width: 200px; margin-right=-100px;">Your browser does not support HTML5 canvas</canvas>
--->
-</div>		
-                    </div> <!-- about image -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-10">
-                    <div class="about-content pt-45">
-                        <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
-                        
-                        <div class="about-counter pt-60">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-1 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">350</span>co2</span>
-                                            <p class="text">Climate co2</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-2 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">99</span>%</span>
-                                            <p class="text">allergy</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-3 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">870</span>kj</span>
-                                            <p class="text">calories</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                            </div> <!-- row -->
-                        </div> <!-- about counter -->
-                    </div> <!-- about content -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-    
-    <!--====== ABOUT PART ENDS ======-->
- 
- 
- 
-<!--====== basket PART START ======-->
+   
+
+
+   
+   
+   <!--====== basket PART START ======-->
     
     <section id="basket" class="testimonial-area pt-70 pb-120">
         <div class="container">
@@ -377,7 +300,9 @@ echo '</div>';
 							<img src="assets/images/basket.png" alt="" width="50">
                         </div> <!-- section title -->
                 
-                        <p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+                        <!--
+						<p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+						-->
                     </div> <!-- testimonial left content -->
                 </div>
 				
@@ -484,11 +409,116 @@ echo '</div>';
 </div><!-- single contact info -->
 
 
-
-            </div> <!-- row -->
+<div class="testimonial-left-content mt-45 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <div class="section-title">
+                            <h6 class="sub-title">shopping basket</h6>
+                            <h4 class="title">check items</h4>
+							<img src="assets/images/basket.png" alt="" width="50">
+                        </div> <!-- section title -->
+                
+                        <!--
+						<p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+						-->
+                    </div>
+            
+			
+			
+					
+					
+</div> <!-- row -->	
+					
+					
+					
         </div> <!-- container -->
     </section>
 	<!--====== basket ======-->
+	
+	
+
+
+   <!--====== PROJECT GALLERY PART ENDS ======-->
+ 
+ 
+  <section id="store" class="about-area pt-115">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <h6 class="welcome">Store Overview</h6>
+                        <h3 class="title"><span>Find all articles </span> on your shopping tour.</h3>
+                    </div>
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <img src="assets/images/3d/3d1.png">
+						<!--<img src="bild.php" alt="store">-->
+						<!-- Use it like any other HTML element -->
+<div class="col-lg-8" style="width: 200px; margin-right=-100px;">
+<!--
+<canvas id="canvas"  style="width: 200px; margin-right=-100px;">Your browser does not support HTML5 canvas</canvas>
+-->
+</div>		
+                    </div> <!-- about image -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="about-content pt-45">
+                        <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+                        
+                        <div class="about-counter pt-60">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-1 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">350</span>co2</span>
+                                            <p class="text">Climate co2</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-2 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">99</span>%</span>
+                                            <p class="text">allergy</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-3 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">870</span>kj</span>
+                                            <p class="text">calories</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                            </div> <!-- row -->
+                        </div> <!-- about counter -->
+                    </div> <!-- about content -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== ABOUT PART ENDS ======-->
+ 
+ 
+ 
+
     
     
     
