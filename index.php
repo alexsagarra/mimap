@@ -214,82 +214,7 @@ if(isset($_GET['search'])) { $search = $_GET['search'];} else {$search = ''; }
     
     <!--====== ABOUT PART START ======-->
     
-    <section id="store" class="about-area pt-115">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <h6 class="welcome">Store Overview</h6>
-                        <h3 class="title"><span>Find all articles </span> on your shopping tour.</h3>
-                    </div>
-                </div>
-            </div> <!-- row -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                        <img src="assets/images/store1.jpg" alt="about">
-						<!--<img src="bild.php" alt="store">-->
-						<!-- Use it like any other HTML element -->
-<div class="col-lg-8" style="width: 200px; margin-right=-100px;">
-<!--
-<canvas id="canvas"  style="width: 200px; margin-right=-100px;">Your browser does not support HTML5 canvas</canvas>
--->
-</div>		
-                    </div> <!-- about image -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-10">
-                    <div class="about-content pt-45">
-                        <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
-                        
-                        <div class="about-counter pt-60">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-1 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">350</span>co2</span>
-                                            <p class="text">Climate co2</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-2 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">99</span>%</span>
-                                            <p class="text">allergy</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="single-counter counter-color-3 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-                                        <div class="counter-shape">
-                                            <span class="shape-1"></span>
-                                            <span class="shape-2"></span>
-                                        </div>
-                                        <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">870</span>kj</span>
-                                            <p class="text">calories</p>
-                                        </div>
-                                    </div> <!-- single counter -->
-                                </div>
-                            </div> <!-- row -->
-                        </div> <!-- about counter -->
-                    </div> <!-- about content -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-    
-    <!--====== ABOUT PART ENDS ======-->
+   
     
 
     
@@ -358,7 +283,87 @@ echo '</div>';
     </section>
 
     <!--====== PROJECT GALLERY PART ENDS ======-->
+ 
+ 
+  <section id="store" class="about-area pt-115">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <h6 class="welcome">Store Overview</h6>
+                        <h3 class="title"><span>Find all articles </span> on your shopping tour.</h3>
+                    </div>
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <img src="assets/images/3d/3d1.png">
+						<!--<img src="bild.php" alt="store">-->
+						<!-- Use it like any other HTML element -->
+<div class="col-lg-8" style="width: 200px; margin-right=-100px;">
+<!--
+<canvas id="canvas"  style="width: 200px; margin-right=-100px;">Your browser does not support HTML5 canvas</canvas>
+-->
+</div>		
+                    </div> <!-- about image -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="about-content pt-45">
+                        <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+                        
+                        <div class="about-counter pt-60">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-1 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">350</span>co2</span>
+                                            <p class="text">Climate co2</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-2 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">99</span>%</span>
+                                            <p class="text">allergy</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="single-counter counter-color-3 mt-30 d-flex wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
+                                        <div class="counter-shape">
+                                            <span class="shape-1"></span>
+                                            <span class="shape-2"></span>
+                                        </div>
+                                        <div class="counter-content media-body">
+                                            <span class="counter-count"><span class="counter">870</span>kj</span>
+                                            <p class="text">calories</p>
+                                        </div>
+                                    </div> <!-- single counter -->
+                                </div>
+                            </div> <!-- row -->
+                        </div> <!-- about counter -->
+                    </div> <!-- about content -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
     
+    <!--====== ABOUT PART ENDS ======-->
+ 
+ 
+ 
 <!--====== basket PART START ======-->
     
     <section id="basket" class="testimonial-area pt-70 pb-120">
@@ -371,18 +376,23 @@ echo '</div>';
                             <h4 class="title">check items</h4>
 							<img src="assets/images/basket.png" alt="" width="50">
                         </div> <!-- section title -->
-                        
+                
+                        <p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+                    </div> <!-- testimonial left content -->
+                </div>
+				
 						<?php
+						/*
 						foreach ( $_SESSION['basket'] as $basket)
 						{
 							
 						//$productdata = get_product('products/'.$_GET['prodid']);
-						/*
-						$_SESSION["basket"][$_GET['prodid']]['name'] = $productdata['name'];
-						$_SESSION["basket"][$_GET['prodid']]['price'] = $productdata['price']['item']['price'];
-						$_SESSION["basket"][$_GET['prodid']]['img'] = $productdata['image']['original'];
-						$_SESSION["basket"][$_GET['prodid']]['id'] = $productdata['id'];
-						*/
+			//			
+		//				$_SESSION["basket"][$_GET['prodid']]['name'] = $productdata['name'];
+	//					$_SESSION["basket"][$_GET['prodid']]['price'] = $productdata['price']['item']['price'];
+//						$_SESSION["basket"][$_GET['prodid']]['img'] = $productdata['image']['original'];
+//						$_SESSION["basket"][$_GET['prodid']]['id'] = $productdata['id'];
+						
 						
 						echo '
 <div class="col-lg-12">
@@ -401,167 +411,79 @@ echo '</div>';
 echo '</div>';
 	
 						}
+						*/
 						?>
 					
 
 
 
-<div class="col-lg-12">
+
 <div class="single-contact-info contact-color-1 mt-30 d-flex  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-	<div class="contact-info-icon">
-		<img src="https://image.migros.ch/2017-large/d5f9fad42ccadca945be9ec6806a99aa4c66b32c/bio-you-spaghetti-gelbe-linsen.jpg" alt="" width="100">
-	</div>
-	<div class="contact-info-content media-body">
-		<h6><a href="">Bio YOU Spaghetti gelbe Linsen</a></h6>
-		<h4 class="title">2.75</h4>
-		<h4 class="title"></h4>
+	
+	
+	<div class="col-lg">
+		<div>
+			<img src="https://image.migros.ch/2017-large/d5f9fad42ccadca945be9ec6806a99aa4c66b32c/bio-you-spaghetti-gelbe-linsen.jpg" alt="" width="200px"  >
+		</div>
+		<div class="contact-info-content media-body">
+			<h6><a href="">Bio YOU Spaghetti gelbe Linsen</a></h6>
+			<h4 class="title"></h4>
+		</div>
 	</div>
 	
-	<ul class="mui-shoppinglist-companion-products">
-                        <li class="mui-shoppinglist-companion-product" data-id="23764921">
-                            <div class="mui-shoppinglist-companion-product-tile type-product">
-                                <div class="mui-shoppinglist-companion-product-tile-container">
-                                    <a href="https://produkte.migros.ch/277000502300" class="mui-shoppinglist-companion-product-link mui-js-shoppinglist-link-item-page mui-tracking-information" target="_blank" aria-label="Link wird in neuem Fenster geöffnet" data-trackinginformation="{&quot;id&quot;:277000502300,&quot;variant&quot;:null,&quot;bessnumber&quot;:&quot;BeSS_01&quot;,&quot;refprodId&quot;:null,&quot;language&quot;:&quot;de&quot;,&quot;list&quot;:&quot;shoppinglist quickview&quot;,&quot;position&quot;:null,&quot;listinfo&quot;:&quot;shoppinglist name: undefined&quot;,&quot;ratingavg&quot;:null,&quot;ratingtotal&quot;:null,&quot;price&quot;:1.4,&quot;discountedprice&quot;:1.2,&quot;name&quot;:&quot;Knoblauch&quot;,&quot;bossnumber&quot;:&quot;050115222505&quot;,&quot;store&quot;:&quot;Supermarkt&quot;,&quot;brand&quot;:&quot;Fresca&quot;,&quot;category&quot;:&quot;Lagergemüse&quot;,&quot;discounttype&quot;:&quot;product&quot;}">
-                                        <div class="mui-shoppinglist-companion-product-tile-image-container">
-                                                    
-                                                    <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg" data-src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg" data-srcset="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 1x, https://image.migros.ch/2015-large/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 2x" srcset="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 1x, https://image.migros.ch/2015-large/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 2x">
-                                                    <noscript>
-                                                        <img src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg"  />
-                                                    </noscript>
-                                                <div class="mui-shoppinglist-companion-product-tile-badge">
-                                                        
-                                                        <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png" data-src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png" data-srcset="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 1x, https://image.migros.ch/2015-medium/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 2x" srcset="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 1x, https://image.migros.ch/2015-medium/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 2x">
-                                                        <noscript>
-                                                            <img src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png"  />
-                                                        </noscript>
-                                                </div>
-                                        </div>
-                                        <div class="mui-shoppinglist-companion-product-tile-info-container">
-                                            <h4 class="mui-shoppinglist-companion-product-tile-heading">
-                                                <span class="mui-shoppinglist-companion-product-tile-title">
-                                                    Knoblauch
-                                                </span>
-                                            </h4>
-                            
-                                            <div class="mui-shoppinglist-companion-product-tile-content">
-                                                    <div class="mui-shoppinglist-companion-product-tile-subtext">
-                                                        Spanien, Netz, 250 g Angebot gilt nur vom 15.9. bis 28.9.2020, solange Vorrat.
-                                                    </div>
-                                                    <div class="mui-shoppinglist-companion-product-tile-price mui-shoppinglist-companion-product-tile-price-discount">
-                                                            1.20 <span>bisher</span> 1.40
-                                                            <span class="sr-only"> ()</span>
-                                                    </div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764921" aria-controls="mui-shoppinglist-companion-item-edit-23764921" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt bearbeiten" aria-label="Produkt bearbeiten" onclick="return false;">
-                                        <span class="mui-icon-more-vertical mui-icon" aria-hidden="true"></span>
-                                    </button>
-                                </div>
-                            
-                                <div id="mui-shoppinglist-companion-item-edit-23764921" class="mui-js-shoppinglist-companion-item-edit mui-panel-collapse mui-collapsable">
-                                    <form class="mui-shoppinglist-companion-product-tile-edit-container mui-js-shoppinglist-companion-product-tile-edit-form" action="/">
-                                        <div class="mui-shoppinglist-companion-product-tile-actions-container">
-                                            <button type="button" class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-delete-button mui-js-shoppinglist-link-item-delete" title="Produkt entfernen" aria-label="Produkt entfernen">
-                                                <i class="mui-icon-trash-bin" aria-hidden="true"></i>
-                                            </button>
-                                        </div>
-                                    
-                                        <div class="mui-shoppinglist-companion-product-tile-edit-quantity">
-                                            <div class="mui-shoppinglist-companion-product-tile-edit-quantity-form mui-js-shoppinglist-input-quantity-form">
-                                                <button type="button" class="mui-js-shoppinglist-input-quantity-minus mui-shoppinglist-input-quantity-minus mui-button mui-button-light" title="Menge verringern" aria-label="Menge verringern" disabled="">
-                                                    <span class="mui-icon-minus" aria-hidden="false"></span>
-                                                </button>
-                                                <input class="mui-form-control mui-shoppinglist-companion-product-tile-edit-quantity-input mui-js-shoppinglist-input-quantity" type="number" value="1">
-                                                <button type="button" class="mui-js-shoppinglist-input-quantity-plus mui-button" title="Menge erhöhen" aria-label="Menge erhöhen">
-                                                    <span class="mui-icon-plus" aria-hidden="false"></span>
-                                                </button>
-                                            </div>
-                                    
-                                        </div>
-                                    
-                                        <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-close-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764921" aria-controls="mui-shoppinglist-companion-item-edit-23764921" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt speichern" aria-label="Produkt speichern" type="submit">
-                                            <span class="mui-icon-checkmark-circle mui-icon" aria-hidden="true"></span>
-                                        </button>
-                                    </form>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="mui-shoppinglist-companion-product" data-id="23764918">
-                            <div class="mui-shoppinglist-companion-product-tile type-product">
-                                <div class="mui-shoppinglist-companion-product-tile-container">
-                                    <a href="https://produkte.migros.ch/276703902100" class="mui-shoppinglist-companion-product-link mui-js-shoppinglist-link-item-page mui-tracking-information" target="_blank" aria-label="Link wird in neuem Fenster geöffnet" data-trackinginformation="{&quot;id&quot;:276703902100,&quot;variant&quot;:null,&quot;bessnumber&quot;:&quot;BeSS_01&quot;,&quot;refprodId&quot;:null,&quot;language&quot;:&quot;de&quot;,&quot;list&quot;:&quot;shoppinglist quickview&quot;,&quot;position&quot;:null,&quot;listinfo&quot;:&quot;shoppinglist name: undefined&quot;,&quot;ratingavg&quot;:null,&quot;ratingtotal&quot;:null,&quot;name&quot;:&quot;Federkohl&quot;,&quot;bossnumber&quot;:&quot;050115221505&quot;,&quot;store&quot;:&quot;Supermarkt&quot;,&quot;brand&quot;:&quot;Fresca&quot;,&quot;category&quot;:&quot;Lagergemüse&quot;,&quot;discounttype&quot;:&quot;product&quot;}">
-                                        <div class="mui-shoppinglist-companion-product-tile-image-container">
-                                                    
-                                                    <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg" data-src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg" data-srcset="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 1x, https://image.migros.ch/2015-large/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 2x" srcset="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 1x, https://image.migros.ch/2015-large/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 2x">
-                                                    <noscript>
-                                                        <img src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg"  />
-                                                    </noscript>
-                                        </div>
-                                        <div class="mui-shoppinglist-companion-product-tile-info-container">
-                                            <h4 class="mui-shoppinglist-companion-product-tile-heading">
-                                                <span class="mui-shoppinglist-companion-product-tile-title">
-                                                    Federkohl
-                                                </span>
-                                            </h4>
-                            
-                                            <div class="mui-shoppinglist-companion-product-tile-content">
-                                                    <div class="mui-shoppinglist-companion-product-tile-price">
-                                                                Aktueller Tagespreis
-                                                    </div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764918" aria-controls="mui-shoppinglist-companion-item-edit-23764918" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt bearbeiten" aria-label="Produkt bearbeiten" onclick="return false;">
-                                        <span class="mui-icon-more-vertical mui-icon" aria-hidden="true"></span>
-                                    </button>
-                                </div>
-                            
-                                <div id="mui-shoppinglist-companion-item-edit-23764918" class="mui-js-shoppinglist-companion-item-edit mui-panel-collapse mui-collapsable">
-                                    <form class="mui-shoppinglist-companion-product-tile-edit-container mui-js-shoppinglist-companion-product-tile-edit-form" action="/">
-                                        <div class="mui-shoppinglist-companion-product-tile-actions-container">
-                                            <button type="button" class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-delete-button mui-js-shoppinglist-link-item-delete" title="Produkt entfernen" aria-label="Produkt entfernen">
-                                                <i class="mui-icon-trash-bin" aria-hidden="true"></i>
-                                            </button>
-                                        </div>
-                                    
-                                        <div class="mui-shoppinglist-companion-product-tile-edit-quantity">
-                                            <div class="mui-shoppinglist-companion-product-tile-edit-quantity-form mui-js-shoppinglist-input-quantity-form">
-                                                <button type="button" class="mui-js-shoppinglist-input-quantity-minus mui-shoppinglist-input-quantity-minus mui-button mui-button-light" title="Menge verringern" aria-label="Menge verringern" disabled="">
-                                                    <span class="mui-icon-minus" aria-hidden="false"></span>
-                                                </button>
-                                                <input class="mui-form-control mui-shoppinglist-companion-product-tile-edit-quantity-input mui-js-shoppinglist-input-quantity" type="number" value="1">
-                                                <button type="button" class="mui-js-shoppinglist-input-quantity-plus mui-button" title="Menge erhöhen" aria-label="Menge erhöhen">
-                                                    <span class="mui-icon-plus" aria-hidden="false"></span>
-                                                </button>
-                                            </div>
-                                    
-                                        </div>
-                                    
-                                        <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-close-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764918" aria-controls="mui-shoppinglist-companion-item-edit-23764918" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt speichern" aria-label="Produkt speichern" type="submit">
-                                            <span class="mui-icon-checkmark-circle mui-icon" aria-hidden="true"></span>
-                                        </button>
-                                    </form>
-                                </div>
-                            </div>
-                        </li>
-                </ul>
+	<div class="col-lg">
+		<div>
+			<img src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg" alt="" height="200px"  width="300">
+		</div>
+		<div class="contact-info-content media-body">
+			<h6><a href="">Knoblauch</a></h6>
+			<h4 class="title">Spanien, Netz, 250 g Angebot gilt nur vom 15.9. bis 28.9.2020, solange Vorrat.</h4>
+			<h4 class="title"></h4>
+		</div>
+	</div>
+	
+	<div class="col-sm">
+		<div class="contact-info-icon">
+			<img src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg" alt="" height="200px"  width="300">
+		</div>
+		<div class="contact-info-content media-body">
+			<h6><a href="">Federkohl</a></h6>
+			<h4 class="title">2.75 CHF</h4>
+
+		</div>
+	</div>
+	
+	
+	<div class="col-sm">
+		<div class="contact-info-icon">
+			<img src="https://image.migros.ch/2015-large/670fe699cd6c3f12091a51dc32c6d1019a08641e/cayennepfeffer-gemahlen.jpg" alt="" height="200px"  width="300">
+		</div>
+		<div class="contact-info-content media-body">
+			<h6><a href="">Cayennepfeffer gemahlen</a></h6>
+			<h4 class="title">0.55 CHF</h4>
+
+		</div>
+	</div>
+	
+	<div class="col-sm">
+		<div class="contact-info-icon">
+			<img src="https://image.migros.ch/2017-large/897bbf36b95cf4f39f2c54ca071ad8455a054277/bio-tilsiter-rahm.jpg" alt="" height="200px" width="300">
+		</div>
+		<div class="contact-info-content media-body">
+			<h6><a href="">Bio Tilsiter Rahm</a></h6>
+			<h4 class="title">1.95 CHF</h4>
+
+		</div>
+	</div>
+	
+	
+	
+
 				
 				
 </div><!-- single contact info -->
-</div>
 
 
-
-
-					
-					
-						<ul class="testimonial-line">
-                            <li></li>
-                        </ul>
-                        <p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
-                    </div> <!-- testimonial left content -->
-                </div>
 
             </div> <!-- row -->
         </div> <!-- container -->
