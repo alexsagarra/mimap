@@ -410,16 +410,10 @@ echo '</div>';
 
 
 <div class="testimonial-left-content mt-45 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <div class="section-title">
-                            <h6 class="sub-title">shopping basket</h6>
-                            <h4 class="title">check items</h4>
-							<img src="assets/images/basket.png" alt="" width="50">
-                        </div> <!-- section title -->
-                
-                        <!--
-						<p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
-						-->
-                    </div>
+
+<p class="text">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. <br> <br> ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
+
+</div>
             
 			
 			
@@ -445,7 +439,7 @@ echo '</div>';
                 <div class="col-lg-9">
                     <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
                         <h6 class="welcome">Store Overview</h6>
-                        <h3 class="title"><span>Find all articles </span> on your shopping tour.</h3>
+                        <h3 class="title"><span>Find the best and fastest Way</span> on your shopping tour.</h3>
                     </div>
                 </div>
             </div> <!-- row -->
