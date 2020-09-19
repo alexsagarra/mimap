@@ -416,6 +416,138 @@ echo '</div>';
 		<h4 class="title">2.75</h4>
 		<h4 class="title"></h4>
 	</div>
+	
+	<ul class="mui-shoppinglist-companion-products">
+                        <li class="mui-shoppinglist-companion-product" data-id="23764921">
+                            <div class="mui-shoppinglist-companion-product-tile type-product">
+                                <div class="mui-shoppinglist-companion-product-tile-container">
+                                    <a href="https://produkte.migros.ch/277000502300" class="mui-shoppinglist-companion-product-link mui-js-shoppinglist-link-item-page mui-tracking-information" target="_blank" aria-label="Link wird in neuem Fenster geöffnet" data-trackinginformation="{&quot;id&quot;:277000502300,&quot;variant&quot;:null,&quot;bessnumber&quot;:&quot;BeSS_01&quot;,&quot;refprodId&quot;:null,&quot;language&quot;:&quot;de&quot;,&quot;list&quot;:&quot;shoppinglist quickview&quot;,&quot;position&quot;:null,&quot;listinfo&quot;:&quot;shoppinglist name: undefined&quot;,&quot;ratingavg&quot;:null,&quot;ratingtotal&quot;:null,&quot;price&quot;:1.4,&quot;discountedprice&quot;:1.2,&quot;name&quot;:&quot;Knoblauch&quot;,&quot;bossnumber&quot;:&quot;050115222505&quot;,&quot;store&quot;:&quot;Supermarkt&quot;,&quot;brand&quot;:&quot;Fresca&quot;,&quot;category&quot;:&quot;Lagergemüse&quot;,&quot;discounttype&quot;:&quot;product&quot;}">
+                                        <div class="mui-shoppinglist-companion-product-tile-image-container">
+                                                    
+                                                    <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg" data-src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg" data-srcset="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 1x, https://image.migros.ch/2015-large/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 2x" srcset="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 1x, https://image.migros.ch/2015-large/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg 2x">
+                                                    <noscript>
+                                                        <img src="https://image.migros.ch/2015-medium/bf1d657a5910dbd9eb4013ae5fa03dfd79c0a3d5/knoblauch.jpg"  />
+                                                    </noscript>
+                                                <div class="mui-shoppinglist-companion-product-tile-badge">
+                                                        
+                                                        <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png" data-src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png" data-srcset="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 1x, https://image.migros.ch/2015-medium/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 2x" srcset="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 1x, https://image.migros.ch/2015-medium/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png 2x">
+                                                        <noscript>
+                                                            <img src="https://image.migros.ch/2015-small/d3e3845b280bcbefeb61f7439ab786a085ff0cd4.png"  />
+                                                        </noscript>
+                                                </div>
+                                        </div>
+                                        <div class="mui-shoppinglist-companion-product-tile-info-container">
+                                            <h4 class="mui-shoppinglist-companion-product-tile-heading">
+                                                <span class="mui-shoppinglist-companion-product-tile-title">
+                                                    Knoblauch
+                                                </span>
+                                            </h4>
+                            
+                                            <div class="mui-shoppinglist-companion-product-tile-content">
+                                                    <div class="mui-shoppinglist-companion-product-tile-subtext">
+                                                        Spanien, Netz, 250 g Angebot gilt nur vom 15.9. bis 28.9.2020, solange Vorrat.
+                                                    </div>
+                                                    <div class="mui-shoppinglist-companion-product-tile-price mui-shoppinglist-companion-product-tile-price-discount">
+                                                            1.20 <span>bisher</span> 1.40
+                                                            <span class="sr-only"> ()</span>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764921" aria-controls="mui-shoppinglist-companion-item-edit-23764921" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt bearbeiten" aria-label="Produkt bearbeiten" onclick="return false;">
+                                        <span class="mui-icon-more-vertical mui-icon" aria-hidden="true"></span>
+                                    </button>
+                                </div>
+                            
+                                <div id="mui-shoppinglist-companion-item-edit-23764921" class="mui-js-shoppinglist-companion-item-edit mui-panel-collapse mui-collapsable">
+                                    <form class="mui-shoppinglist-companion-product-tile-edit-container mui-js-shoppinglist-companion-product-tile-edit-form" action="/">
+                                        <div class="mui-shoppinglist-companion-product-tile-actions-container">
+                                            <button type="button" class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-delete-button mui-js-shoppinglist-link-item-delete" title="Produkt entfernen" aria-label="Produkt entfernen">
+                                                <i class="mui-icon-trash-bin" aria-hidden="true"></i>
+                                            </button>
+                                        </div>
+                                    
+                                        <div class="mui-shoppinglist-companion-product-tile-edit-quantity">
+                                            <div class="mui-shoppinglist-companion-product-tile-edit-quantity-form mui-js-shoppinglist-input-quantity-form">
+                                                <button type="button" class="mui-js-shoppinglist-input-quantity-minus mui-shoppinglist-input-quantity-minus mui-button mui-button-light" title="Menge verringern" aria-label="Menge verringern" disabled="">
+                                                    <span class="mui-icon-minus" aria-hidden="false"></span>
+                                                </button>
+                                                <input class="mui-form-control mui-shoppinglist-companion-product-tile-edit-quantity-input mui-js-shoppinglist-input-quantity" type="number" value="1">
+                                                <button type="button" class="mui-js-shoppinglist-input-quantity-plus mui-button" title="Menge erhöhen" aria-label="Menge erhöhen">
+                                                    <span class="mui-icon-plus" aria-hidden="false"></span>
+                                                </button>
+                                            </div>
+                                    
+                                        </div>
+                                    
+                                        <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-close-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764921" aria-controls="mui-shoppinglist-companion-item-edit-23764921" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt speichern" aria-label="Produkt speichern" type="submit">
+                                            <span class="mui-icon-checkmark-circle mui-icon" aria-hidden="true"></span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="mui-shoppinglist-companion-product" data-id="23764918">
+                            <div class="mui-shoppinglist-companion-product-tile type-product">
+                                <div class="mui-shoppinglist-companion-product-tile-container">
+                                    <a href="https://produkte.migros.ch/276703902100" class="mui-shoppinglist-companion-product-link mui-js-shoppinglist-link-item-page mui-tracking-information" target="_blank" aria-label="Link wird in neuem Fenster geöffnet" data-trackinginformation="{&quot;id&quot;:276703902100,&quot;variant&quot;:null,&quot;bessnumber&quot;:&quot;BeSS_01&quot;,&quot;refprodId&quot;:null,&quot;language&quot;:&quot;de&quot;,&quot;list&quot;:&quot;shoppinglist quickview&quot;,&quot;position&quot;:null,&quot;listinfo&quot;:&quot;shoppinglist name: undefined&quot;,&quot;ratingavg&quot;:null,&quot;ratingtotal&quot;:null,&quot;name&quot;:&quot;Federkohl&quot;,&quot;bossnumber&quot;:&quot;050115221505&quot;,&quot;store&quot;:&quot;Supermarkt&quot;,&quot;brand&quot;:&quot;Fresca&quot;,&quot;category&quot;:&quot;Lagergemüse&quot;,&quot;discounttype&quot;:&quot;product&quot;}">
+                                        <div class="mui-shoppinglist-companion-product-tile-image-container">
+                                                    
+                                                    <img class="mui-lazyload lazyloaded" src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg" data-src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg" data-srcset="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 1x, https://image.migros.ch/2015-large/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 2x" srcset="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 1x, https://image.migros.ch/2015-large/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg 2x">
+                                                    <noscript>
+                                                        <img src="https://image.migros.ch/2015-medium/dcd393eb91885f3b449b18e6badac2528961ade9/federkohl.jpg"  />
+                                                    </noscript>
+                                        </div>
+                                        <div class="mui-shoppinglist-companion-product-tile-info-container">
+                                            <h4 class="mui-shoppinglist-companion-product-tile-heading">
+                                                <span class="mui-shoppinglist-companion-product-tile-title">
+                                                    Federkohl
+                                                </span>
+                                            </h4>
+                            
+                                            <div class="mui-shoppinglist-companion-product-tile-content">
+                                                    <div class="mui-shoppinglist-companion-product-tile-price">
+                                                                Aktueller Tagespreis
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764918" aria-controls="mui-shoppinglist-companion-item-edit-23764918" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt bearbeiten" aria-label="Produkt bearbeiten" onclick="return false;">
+                                        <span class="mui-icon-more-vertical mui-icon" aria-hidden="true"></span>
+                                    </button>
+                                </div>
+                            
+                                <div id="mui-shoppinglist-companion-item-edit-23764918" class="mui-js-shoppinglist-companion-item-edit mui-panel-collapse mui-collapsable">
+                                    <form class="mui-shoppinglist-companion-product-tile-edit-container mui-js-shoppinglist-companion-product-tile-edit-form" action="/">
+                                        <div class="mui-shoppinglist-companion-product-tile-actions-container">
+                                            <button type="button" class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-delete-button mui-js-shoppinglist-link-item-delete" title="Produkt entfernen" aria-label="Produkt entfernen">
+                                                <i class="mui-icon-trash-bin" aria-hidden="true"></i>
+                                            </button>
+                                        </div>
+                                    
+                                        <div class="mui-shoppinglist-companion-product-tile-edit-quantity">
+                                            <div class="mui-shoppinglist-companion-product-tile-edit-quantity-form mui-js-shoppinglist-input-quantity-form">
+                                                <button type="button" class="mui-js-shoppinglist-input-quantity-minus mui-shoppinglist-input-quantity-minus mui-button mui-button-light" title="Menge verringern" aria-label="Menge verringern" disabled="">
+                                                    <span class="mui-icon-minus" aria-hidden="false"></span>
+                                                </button>
+                                                <input class="mui-form-control mui-shoppinglist-companion-product-tile-edit-quantity-input mui-js-shoppinglist-input-quantity" type="number" value="1">
+                                                <button type="button" class="mui-js-shoppinglist-input-quantity-plus mui-button" title="Menge erhöhen" aria-label="Menge erhöhen">
+                                                    <span class="mui-icon-plus" aria-hidden="false"></span>
+                                                </button>
+                                            </div>
+                                    
+                                        </div>
+                                    
+                                        <button class="mui-button mui-button-naked mui-shoppinglist-companion-product-tile-edit-close-button mui-is-collapsed mui-js-collapsable" data-target="#mui-shoppinglist-companion-item-edit-23764918" aria-controls="mui-shoppinglist-companion-item-edit-23764918" data-parent=".mui-shoppinglist-companion-product-tile" aria-expanded="false" title="Produkt speichern" aria-label="Produkt speichern" type="submit">
+                                            <span class="mui-icon-checkmark-circle mui-icon" aria-hidden="true"></span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+				
+				
 </div><!-- single contact info -->
 </div>
 
