@@ -798,10 +798,10 @@ echo '</div>';
                                 <p class="text">+41 00 000 00 00</p>
 
                                 <ul class="social mt-40">
-                                    <li><a href="#"><i class="lni-facebook"></i></a></li>
-                                    <li><a href="#"><i class="lni-twitter"></i></a></li>
-                                    <li><a href="#"><i class="lni-instagram"></i></a></li>
-                                    <li><a href="#"><i class="lni-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/hackzurich/" target="_blank"><i class="lni-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/hackzurich" target="_blank"><i class="lni-twitter"></i></a></li>
+                                    <li><a href="https://www.instagram.com/hackzurich" target="_blank"><i class="lni-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/hackzurich/" target="_blank"><i class="lni-linkedin"></i></a></li>
                                 </ul>
                             </div> <!-- contact -->
                         </div> <!-- footer contact -->
