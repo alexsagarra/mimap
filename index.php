@@ -41,7 +41,8 @@ $_SESSION["basket"][$_GET['prodid']]['id'] = $productdata['id'];
     <meta charset="utf-8">
     
     <!--====== Title ======-->
-    <title>MIMAP - Shopping Helper</title>
+    <title>MIMAP - shortest path shopping
+</title>
     
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -181,7 +182,7 @@ $_SESSION["basket"][$_GET['prodid']]['id'] = $productdata['id'];
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="header-hero-content">
-                            <h1 class="hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><b>Hack</b> <span><b>Migros</b></span> Product <b>Data.</b></h1>
+                            <h1 class="hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><b>Hack</b> <span><b>Migros</b></span></br> shortest path shopping</b></h1>
                             <div class="header-singup wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s">
                              <?php
 
@@ -189,7 +190,7 @@ if(isset($_GET['search'])) { $search = $_GET['search'];} else {$search = ''; }
 
 ?>   
 								<form action="<?php echo $_SERVER['PHP_SELF']; ?>#products" method="get">
-									<input type="text" name="search" value="<?=$search?>" placeholder="Apfel" autofocus>
+									<input type="text" name="search" value="<?=$search?>" placeholder="search products for fast shopping" autofocus>
 									<button class="main-btn" type="submit">search</button>
 								</form>
 
@@ -765,9 +766,9 @@ echo '</div>';
                             </div>
                             <ul>
                                 <li><a href="https://www.migros.ch/de/hackzurich.html" target="_blank">Migros Hack Zürich</a></li>
-                                <li><a href="#">Digital Marketing</a></li>
-                                <li><a href="#">Market Analysis</a></li>
-                                <li><a href="#">Web Development</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=NHSRM9t7ouQ" target="_blank">YouToube</a></li>
+                                <li><a href="https://devpost.com/software/mi-mapi/"  target="_blank">devpost</a></li>
+                                <li><a href="https://github.com/alexsagarra/mimap"   target="_blank">GIT</a></li>
                             </ul>
                         </div> <!-- footer link -->
                     </div>
@@ -777,10 +778,10 @@ echo '</div>';
                                 <h5 class="title">About Us</h5>
                             </div>
                             <ul>
-                                <li><a href="#">Overview</a></li>
-                                <li><a href="#">Why us</a></li>
-                                <li><a href="#">Awards & Recognitions</a></li>
-                                <li><a href="#">Team</a></li>
+                                <li><a href="https://hackzurich.com/" target="_blank">hackzurich</a></li>
+                                <li><a href="https://twitter.com/hackzurich"  target="_blank">twitter</a></li>
+                                <li><a href="https://www.migros.ch/" target="_blank">Awards & Recognitions</a></li>
+                                <li><a href="#services" target="_blank">Team</a></li>
                             </ul>
                         </div> <!-- footer link -->
                     </div>
