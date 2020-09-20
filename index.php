@@ -699,8 +699,8 @@ echo '</div>';
                                 <i class="lni-envelope"></i>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text">sales-mmmata@hackzurich.ch</p>
-                                <p class="text">m-api-mmmata@hackzurich.ch</p>
+                                <p class="text">sales-mmmata @ hackzurich.ch</p>
+                                <p class="text">m-api-mmmata @ hackzurich.ch</p>
                             </div>
                         </div> <!-- single contact info -->
                     </div>
@@ -811,8 +811,8 @@ echo '</div>';
                                 <p class="text">Technoparkstrasse 1 <br>
                                     8005 Zürich
 </p>
-                                <p class="text">m-data@hackzurich.ch</p>
-                                <p class="text">+41 00 000 00 00</p>
+                                <p class="text">alex@sagarra.ch</p>
+                                <p class="text">+41 79 719 78 79</p>
 
                                 <ul class="social mt-40">
                                     <li><a href="https://www.facebook.com/hackzurich/" target="_blank"><i class="lni-facebook"></i></a></li>
