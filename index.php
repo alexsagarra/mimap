@@ -13,6 +13,23 @@ if(isset($_GET['search'])) { $search = $_GET['search'];} else {$search = ''; }
 
 include('func.php');
 
+if(isset($_POST['message'])) {
+	$message = $_POST['message'];
+	$name = $_POST['name'];
+	$email = $_POST['email'];
+
+	$empfaenger = "alex@sagarra.ch";
+$betreff = "HackZurich2020";
+$from = "From: ".$name." <".$email.">";
+$text = $message;
+ 
+mail($empfaenger, $betreff, $text, $from);
+
+
+}
+	
+
+
 if(isset($_GET['prodiddelete'])) {
 //prodiddelete
 unset($_SESSION["basket"][$_GET['prodiddelete']]);
@@ -756,7 +773,7 @@ echo '</div>';
                             <a href="#">
                                 <img src="assets/images/pixi.png" alt="Logo">
                             </a>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, repudiandae! Totam, nemo sed? Provident.</p> <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus</p>
+                            <p class="text"></p> <p class="text"></p>
                         </div> <!-- footer about -->
                     </div>
                     <div class="col-lg-3 col-sm-6 order-sm-3 order-lg-2">
@@ -809,7 +826,7 @@ echo '</div>';
                 </div> <!-- row -->
             </div> <!-- footer widget -->
             <div class="footer-copyright text-center">
-                <p class="text">© 2022 Crafted with &#10084; by Team <a href="https://www.saganet.ch" rel="nofollow">Mmmmata</a> All Rights Reserved.</p>
+                <p class="text">© 2022 Crafted with &#10084; by Team <a href="https://www.saganet.ch" rel="nofollow">Mi-MAP</a> All Rights Reserved.</p>
             </div>
         </div> <!-- container -->
     </footer>
